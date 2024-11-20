@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/
+	css?family=Comfortaa&display=swap');
+*{
+	font-family: 'Comfortaa', cursive;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.containr{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.containr .h1{
+	padding: 20px 0;
+}
+.cart{
+	display: flex;
+}
+.prodct{
+	display: flex;
+}
